@@ -8,15 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Import the standard libraries in python required for finding Gradient Design.
-2. Read the dataset file and check any null value using the .isnull() method.
-3. Declare the default variables with respective values for linear regression.
-4. Calculate the loss using Mean Square Error.
-5. Predict the value of y.
-6. Plot the graph with respect to hours and scores using the .scatterplot() method
-for Linear Regression.
-7. Plot the graph with respect to loss and iterations using the .plot() method for
-Gradient Descent.
+1. Use the standard libraries in python.
+2. Set variables for assigning data set values.
+3. Import Linear Regression from the sklearn.
+4. Assign the points for representing the graph.
+5. Predict the regression for marks by using the representation of the graph.
+6. Compare the graphs and hence we obtain the LinearRegression for the given data.
 
 ## Program:
 ```
