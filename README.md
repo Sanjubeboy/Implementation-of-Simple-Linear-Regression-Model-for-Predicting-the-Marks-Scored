@@ -89,13 +89,13 @@ print("RMSE:", rmse)
 
 ## Output:
 ### df.head():
-![simple linear regression model for predicting the marks scored](output1.png)
+![simple linear regression model for predicting the marks scored](Output_1.png)
 ### df.tail():
-![simple linear regression model for predicting the marks scored](output2.png)
+![simple linear regression model for predicting the marks scored](Output_2.png)
 ### Array value of X:
-![simple linear regression model for predicting the marks scored](output3.png)
+![simple linear regression model for predicting the marks scored](Output_3.png)
 ### Array value of Y:
-![simple linear regression model for predicting the marks scored](output4.png)
+![simple linear regression model for predicting the marks scored](Output_4.png)
 ### Values of Y prediction:
 ![simple linear regression model for predicting the marks scored](Output5.png)
 ### Array values of Y test:
